@@ -2,6 +2,28 @@
 
 A modern Omarchy color theme with four Gentle AI and Engram wallpapers.
 
+## Wallpaper previews
+
+These are wallpaper artwork previews, not full desktop screenshots or app coverage.
+
+### Gentle AI
+
+![Gentle AI wallpaper preview](backgrounds/gentle-ai-3440x1440.png)
+
+[3440×1440 PNG](backgrounds/gentle-ai-3440x1440.png) · [3840×2160 PNG](backgrounds/gentle-ai-3840x2160.png)
+
+### Engram
+
+![Engram wallpaper preview](backgrounds/engram-3440x1440.png)
+
+[3440×1440 PNG](backgrounds/engram-3440x1440.png) · [3840×2160 PNG](backgrounds/engram-3840x2160.png)
+
+## Screensaver demo (optional setup)
+
+![Cute laser screensaver close-up](docs/previews/cute-screensaver-laser-closeup.gif)
+
+This animation records a separate Cute screensaver setup. Installing this theme does not install or configure it.
+
 ## Install
 
 > **Warning:** this command installs and activates the theme.
